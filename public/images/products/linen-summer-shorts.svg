@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Linen Summer Shorts">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#e8eef3"/>
+      <stop offset="1" stop-color="#d2d7dc"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="180" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1.2) translate(-300 -480)">
+    <path d="M226 250 L374 250 L398 470 L318 480 L300 340 L282 480 L202 470 Z" fill="#F7F6F2" stroke="#c1c0bd" stroke-width="2"/>
+    <line x1="226" y1="276" x2="374" y2="276" stroke="#c1c0bd" stroke-width="3"/></g>
+</svg>

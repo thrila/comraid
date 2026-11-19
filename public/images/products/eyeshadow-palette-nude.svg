@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Eyeshadow Palette Nude">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#fcf5ec"/>
+      <stop offset="1" stop-color="#e3ded5"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="188" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1.25) translate(-300 -490)">
+    <rect x="168" y="300" width="264" height="190" rx="18" fill="#2B2B2D"/>
+    <circle cx="214" cy="350" r="32" fill="#fff3cb"/><circle cx="300" cy="350" r="32" fill="#D9C2A2"/><circle cx="386" cy="350" r="32" fill="#ae9b82"/><circle cx="214" cy="440" r="32" fill="#efd5b2"/><circle cx="300" cy="440" r="32" fill="#8d7e69"/><circle cx="386" cy="440" r="32" fill="#ffffe3"/></g>
+</svg>

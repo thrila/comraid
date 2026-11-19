@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Men's Denim Jacket">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#ecf3fd"/>
+      <stop offset="1" stop-color="#d5dce4"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="150" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1) translate(-300 -566)">
+    <path d="M220 214 L272 196 L300 300 L328 196 L380 214 L436 296 L456 546 L416 552 L392 344 L390 566 L210 566 L208 344 L184 552 L144 546 L164 296 Z" fill="#3E5F95" stroke="#2b4368" stroke-width="2"/>
+    <path d="M272 196 L254 286 L300 300 M328 196 L346 286 L300 300" fill="none" stroke="#2b4368" stroke-width="3"/>
+    <line x1="300" y1="300" x2="300" y2="566" stroke="#2b4368" stroke-width="3"/></g>
+</svg>

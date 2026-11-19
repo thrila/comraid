@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Floral Summer Dress">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#e8eef3"/>
+      <stop offset="1" stop-color="#d2d7dc"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="150" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1) translate(-300 -580)">
+    <path d="M262 190 L276 190 L286 240 L314 240 L324 190 L338 190 L348 270 Q334 310 344 334 L430 580 L170 580 L256 334 Q266 310 252 270 Z" fill="#F7F6F2" stroke="#c1c0bd" stroke-width="2"/>
+    <path d="M256 334 Q300 350 344 334" fill="none" stroke="#c1c0bd" stroke-width="3"/></g>
+</svg>

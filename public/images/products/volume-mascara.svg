@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Volume Mascara">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#f5f3ef"/>
+      <stop offset="1" stop-color="#dedcd8"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="150" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1) translate(-300 -590)">
+    <rect x="276" y="260" width="48" height="330" rx="20" fill="#232325"/>
+    <rect x="280" y="200" width="40" height="70" rx="8" fill="#19191a"/>
+    <rect x="276" y="430" width="48" height="10" fill="#C7A76A"/></g>
+</svg>

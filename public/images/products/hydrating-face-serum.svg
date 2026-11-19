@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Hydrating Face Serum">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#fcf5ee"/>
+      <stop offset="1" stop-color="#e3ded7"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="150" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1) translate(-300 -590)">
+    <rect x="236" y="360" width="128" height="230" rx="22" fill="#C9A26B" opacity="0.92" stroke="#8d714b" stroke-width="2"/>
+    <rect x="262" y="320" width="76" height="48" rx="6" fill="#2B2B2D"/>
+    <ellipse cx="300" cy="300" rx="30" ry="36" fill="#2B2B2D"/>
+    <rect x="252" y="440" width="96" height="70" rx="4" fill="#FFFFFF" opacity="0.7"/></g>
+</svg>

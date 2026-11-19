@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="Air Runner Sneakers">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#e8eef3"/>
+      <stop offset="1" stop-color="#d2d7dc"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="616" rx="203" ry="16" fill="#000" opacity="0.12" filter="url(#soft)"/>
+  <g transform="translate(300 610) scale(1.35) translate(-300 -520)">
+    <path d="M150 470 Q156 404 218 392 L292 356 Q334 344 354 380 Q384 418 440 428 Q470 436 466 478 L466 494 L150 494 Z" fill="#F7F6F2" stroke="#c1c0bd" stroke-width="2"/>
+    <rect x="146" y="490" width="324" height="30" rx="12" fill="#FFFFFF" stroke="#c1c0bd" stroke-width="2"/>
+    <line x1="262" y1="380" x2="286" y2="404" stroke="#c1c0bd" stroke-width="3"/><line x1="282" y1="374" x2="306" y2="398" stroke="#c1c0bd" stroke-width="3"/><line x1="302" y1="368" x2="326" y2="392" stroke="#c1c0bd" stroke-width="3"/><line x1="322" y1="362" x2="346" y2="386" stroke="#c1c0bd" stroke-width="3"/>
+    <path d="M230 452 Q300 420 380 446" fill="none" stroke="#c1c0bd" stroke-width="3"/></g>
+</svg>
